@@ -1,6 +1,6 @@
-#Proyecto con Spring
+#Recetapp
 
-Descripcion: Es una pagina web donde los usuarios pueden cargar recetas,mirarlas(las propias y las de los otros usuarios),buscarlas segun sus preferencias,puntuarlas 
+Descripcion: Es una plataforma web donde los usuarios pueden cargar recetas,mirarlas(las propias y las de los otros usuarios),buscarlas segun sus preferencias,puntuarlas 
 y comentarlas.
 Para algunas de estas acciones van a requerir registrarse en la pagina y loguearse posteriormente.
 Fue un proyecto grupal,en cual participe en el backend.
